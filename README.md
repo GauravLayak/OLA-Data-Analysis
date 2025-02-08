@@ -11,6 +11,9 @@
 7. Ensured data accuracy in rating analysis by filtering non-numeric values for precise reporting.
 
 **PowerBI Dashboard**
+
+![image alt](https://github.com/GauravLayak/OLA-rides-Analysis/blob/ae43b769adc7e3c04deb2a4421b07bd2494fa095/BI%20DashBoard%20Overview.png)
+
 1. Developed an interactive Power BI dashboard to analyze ride bookings, revenue trends, cancellations, and vehicle performance, leading to a 15% improvement in operational insights.
 2. Designed KPI cards to display total bookings, successful booking values, and cancellations, enabling quick executive decision-making.
 3. Created pie charts to visualize booking status and ride cancellations (customer vs. driver), identifying key service inefficiencies and improving retention strategies.
