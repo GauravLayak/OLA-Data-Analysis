@@ -1,4 +1,4 @@
-# OLA-rides-Analysis
+**Project Name: OLA Rides Analysis**
 
 ## Project Overview
 **SQL**
@@ -10,16 +10,28 @@
 6. Analyzed driver performance, identifying a variance of 1.5 stars in Prime Sedan driver ratings for service improvement.
 7. Ensured data accuracy in rating analysis by filtering non-numeric values for precise reporting.
 
-**PowerBI Dashboard**
+---
+
+## **Power BI Overview**
 
 ![image alt](https://github.com/GauravLayak/OLA-rides-Analysis/blob/ae43b769adc7e3c04deb2a4421b07bd2494fa095/BI%20DashBoard%20Overview.png)
 
-1. Developed an interactive Power BI dashboard to analyze ride bookings, revenue trends, cancellations, and vehicle performance, leading to a 15% improvement in operational insights.
-2. Designed KPI cards to display total bookings, successful booking values, and cancellations, enabling quick executive decision-making.
-3. Created pie charts to visualize booking status and ride cancellations (customer vs. driver), identifying key service inefficiencies and improving retention strategies.
-4. Developed a column chart to analyze payment method preferences by booking value, optimizing payment processing and reducing transaction failures.
-5. Implemented a line chart to track ride distance trends over time, aiding in fleet allocation and cost efficiency improvements.
-6. Built a vehicle performance table, comparing total revenue, success rates, and travel distance across vehicle types, leading to better pricing and service allocation.
-7. Designed a customer revenue table, identifying high-value customers based on total booking value, increasing targeted marketing efficiency by 20%.
-8. Integrated dynamic date slicers, allowing users to analyze booking patterns over custom time periods for better forecasting.
 
+### **1. Dashboard Features & Key Insights**
+- **Developed an interactive dashboard to analyze ride bookings, revenue trends, cancellations, and vehicle performance, improving operational insights by 15%.**
+- **KPI Cards:** Displaying total bookings, successful booking values, and cancellations for quick executive decision-making.
+- **Pie Charts:**
+  - Visualizing booking status distribution.
+  - Comparing ride cancellations by customers vs. drivers, helping identify service inefficiencies.
+- **Column Chart:** Analyzing payment method preferences by booking value to optimize transaction processing.
+- **Line Chart:** Tracking ride distance trends over time for better fleet allocation and cost efficiency.
+- **Vehicle Performance Table:** Comparing total revenue, success rates, and travel distance across vehicle types to improve pricing and service distribution.
+- **Customer Revenue Table:** Identifying high-value customers based on total booking value, leading to a 20% improvement in targeted marketing efficiency.
+- **Dynamic Date Slicers:** Allowing users to filter booking patterns over different time periods for better forecasting.
+
+---
+
+### **Conclusion**
+- This project provided valuable insights into customer behavior, revenue trends, and service inefficiencies.
+- The SQL queries efficiently extracted and structured key metrics.
+- Power BI visualization helped in decision-making and process optimization.
