@@ -14,8 +14,9 @@
 
 ## **Power BI Overview**
 
-![image alt](https://github.com/GauravLayak/OLA-rides-Analysis/blob/ae43b769adc7e3c04deb2a4421b07bd2494fa095/BI%20DashBoard%20Overview.png)
+![image alt](https://github.com/GauravLayak/OLA-Data-Analysis/blob/2130b30c179994ead5939d3275a56c1e526555d5/Overview%201.png)
 
+![image alt](https://github.com/GauravLayak/OLA-Data-Analysis/blob/2130b30c179994ead5939d3275a56c1e526555d5/Overview%202.png)
 
 ### **1. Dashboard Features & Key Insights**
 - **Developed an interactive dashboard to analyze ride bookings, revenue trends, cancellations, and vehicle performance, improving operational insights by 15%.**
